@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KgcDemo4.iml" filepath="$PROJECT_DIR$/KgcDemo4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kgc-controller/kgc-controller.iml" filepath="$PROJECT_DIR$/kgc-controller/kgc-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kgc-dao/kgc-dao.iml" filepath="$PROJECT_DIR$/kgc-dao/kgc-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kgc-entity/kgc-entity.iml" filepath="$PROJECT_DIR$/kgc-entity/kgc-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kgc-service/kgc-service.iml" filepath="$PROJECT_DIR$/kgc-service/kgc-service.iml" />
+    </modules>
+  </component>
+</project>
