@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/kgc-dao/pom.xml" />
         <option value="$PROJECT_DIR$/kgc-service/pom.xml" />
         <option value="$PROJECT_DIR$/kgc-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>

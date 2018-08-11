@@ -8,5 +8,11 @@
     <artifactId>kgc-dao</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    
+    <dependencies>
+        <dependency>
+            <groupId>cn.kgc</groupId>
+            <artifactId>kgc-entity</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

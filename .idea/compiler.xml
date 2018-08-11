@@ -17,6 +17,7 @@
       <module name="kgc-dao" target="1.5" />
       <module name="kgc-entity" target="1.5" />
       <module name="kgc-service" target="1.5" />
+      <module name="KgcDemo" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
